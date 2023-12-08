@@ -1,0 +1,47 @@
+#Introduction to Blockchain.
+
+Question 1: What is the difference between a private and public Blockchain
+
+Differences between Private and Public Blockchain
+Private Blockchain
+Public Blockchain
+Not open to decentralization as public blockchain
+It is open to only some authorized users
+It is operated in a closed network
+Only few authorized user holds the nodes
+
+Public Blockchain system
+it is open to decentralised idea
+it is open to the public and not owned by an individual.
+Anyone that has internet and good hardware can participate
+All the computers involved hold a copy of the nodes.
+
+
+Question 2: Explain 51% attack
+51% attack can be said to mean when more than half or 51% of a group has access to a particular data thereby making it easy for manipulation because the group that has access to the data outweighs the group that has no access to the data.
+In the area of blockchain especially hybrid blockchain where some of the nodes are public while some of the nodes are not public, when there is upto 51% of the users have access to the nodes, it can be prone to manipulation or attack but since  51% of the users don’t have access  to the data it cannot be easily attacked.
+
+Question 3: Why is Hybrid Blockchain transaction cheap
+Hybrid Blockchain is cheap because not all the nodes are involved in the verification of transactions. Only few nodes verify the transactions making the computational cost cheap.
+
+
+Question 4: Which Blockchain is a federated Blockchain
+The federated Blockchain is Consortium Blockchain.
+
+Question 5:Blockchain is built on which idea and structure
+Blockchain is built over the idea and structure of Bitcoin.
+
+Question 6: Blockchain was introduced to solve which problem
+Blockchain was introduced to solve the problem of transparency, public accessibility, decentralization and immutability.
+
+Question 6: Blockchain 2.0 came with ______ to solve _________?
+Blockchain 2.0 came with ethereum to solve the problem of mining BitCoin.
+Question 7: What is DApps
+DApps is also known as Decentralised Applications are like conventional applications which can have the frontend written in any language such as javascript calling the backend which runs on decentralized peer-to-peer network using decentralized storage and communication. DApps have no single owner or authority ensuring transparency, flexibility, public data accessibility and improved security.
+
+Question 8: List 3 things that are not Blockchain?
+Three things that are not Blockchain are:
+Cryptocurrency
+Programming language
+Python library or framework
+
